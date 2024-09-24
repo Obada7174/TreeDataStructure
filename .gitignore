@@ -1,0 +1,7 @@
+# Default ignored files
+# Ignore build and IDE-specific files
+/out/
+/.idea/
+*.iml
+*.class
+
